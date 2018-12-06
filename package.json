@@ -7,7 +7,7 @@
     "dev": "vue-cli-service serve"
   },
   "dependencies": {
-    "element-ui": "^2.4.5",
+    "element-ui": "^2.4.11",
     "vue": "^2.5.17",
     "vue-waterfall-easy": "^2.4.3"
   },
