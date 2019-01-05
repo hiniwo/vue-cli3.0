@@ -1,6 +1,14 @@
 <template>
   <div class="hello">
 	<div>
+        <p>你好妈</p>
+        <div class="kk">
+            <ul>
+                <li>11</li>
+                <li>22</li>
+                <li>33</li>
+            </ul>
+        </div>
 	</div>
   </div>
 </template>
@@ -40,4 +48,8 @@ li {
 a {
   color: #42b983;
 }
+    .kk{
+        background-color: #ff5669;
+        color: #000;
+    }
 </style>
